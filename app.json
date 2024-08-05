@@ -8,7 +8,7 @@
   
     "env": {
       "OWNER_NAME": {
-        "description": "Name for Bot Owner",
+        "description": "Ike",
         "value": "Queen_Anita-V2",
         "required": true
       },
@@ -45,7 +45,7 @@
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Lagos"
+        "value": "Africa/Lome"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -99,7 +99,7 @@
       },
       "PREFIX": {
         "description": "Enter your desired prefix for bot. you can set `all | . | .!*`",
-        "value": "."
+        "value": "/"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
